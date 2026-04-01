@@ -28,4 +28,5 @@ To address this, the framework implements a **cross-layer solution**:
 
 Doppler is estimated using phase change between consecutive SRS signals:
 <img width="183" height="110" alt="image" src="https://github.com/user-attachments/assets/863e67be-2574-4ee5-8c91-ef320f9acf00" />
+Doppler is estimated using phase change between consecutive SRS signals:
 
