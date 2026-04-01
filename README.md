@@ -22,9 +22,7 @@ To address this, the framework implements a **cross-layer solution**:
   - Downlink time-domain pre-compensation
 ---
 ## Architecture
-
 <img width="540" height="720" alt="image" src="https://github.com/user-attachments/assets/391f63a3-32fa-4fbf-bd94-ca9e5ee09a3b" />
-
 -----------------------------------------------------------
 ## Observations
 
