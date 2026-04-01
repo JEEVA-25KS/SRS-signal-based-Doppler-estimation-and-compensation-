@@ -25,8 +25,18 @@ To address this, the framework implements a **cross-layer solution**:
 
 <img width="540" height="720" alt="image" src="https://github.com/user-attachments/assets/391f63a3-32fa-4fbf-bd94-ca9e5ee09a3b" />
 
-
 -----------------------------------------------------------
+## Observations
 
+- Estimated Doppler values are **very small (≈ 0 Hz)**  
+  *(e.g., 0.94 Hz, 0.73 Hz)*  
+- Values are **stable with minimal variation**  
+- Compensation effect is **limited under current setup**  
 
+### Reason
 
+- Experiments conducted in an **indoor environment**  
+- **No high-mobility scenarios** (UE mostly static/slow)  
+- **Short UE–gNB distance** and controlled conditions  
+
+Result: **Negligible Doppler shift observed**
